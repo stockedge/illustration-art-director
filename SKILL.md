@@ -1,5 +1,6 @@
 ---
 name: illustration-art-director
+license: MIT
 description: >-
   Review and refine illustrations to reduce generic AI-looking visual artifacts (AI臭・AIっぽさ・生成AI特有の違和感) while preserving character identity, composition, storytelling, and artistic appeal. Use when a user provides an illustration or a generation prompt and asks for visual critique, less AI-looking artwork, coherent linework/lighting/anatomy, targeted image edits, or before/after evaluation. This is an art-direction workflow, NOT an AI-origin detector or provenance-removal tool.
 metadata:
